@@ -23,8 +23,8 @@
     <string name="incity">CIty</string>
 
     <!-- Menus Strings -->
-    <string name="app_name" translatable="false">PrayerTimes - Everyday Muslim App</string>
-    <string name="app_name_short" translatable="false">PrayerTimes 🌙</string>
+    <string name="app_name" translatable="false">محمد عبد العظيم الطويل الإسلامي</string>
+    <string name="app_name_short" translatable="false">محمد الطويل</string>
     <string name="app_desc" translatable="false">Everyday Muslim App.</string>
     <string name="city">City</string>
     <string name="location">Detect location</string>
